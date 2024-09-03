@@ -1,2 +1,1 @@
-# Aerospace
-A repository for making any aerospace system, either for embedded systems and data visualization
+A repository for making any aerospace system, as either embedded systems, and data visualization
